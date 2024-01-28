@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91818fcee22b3454aafbdb95fa3d27b4, type: 3}
   m_Name: Harmony General
   m_EditorClassIdentifier: 
-  id: 3
   cardName: Harmony General
   cardCost: 5
   cardPower: 6
   cardHealth: 8
   cardDescription: This is Harmony General
+  cardImage: {fileID: 21300000, guid: 578376f52225b67448db211b2330301c, type: 3}
